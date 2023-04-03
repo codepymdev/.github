@@ -67,11 +67,6 @@ This means data masking is super fast and happens on a programming level before 
 2. [Create a Treblle project](https://docs.treblle.com/en/dashboard/projects#creating-a-project).
 3. [Setup the SDK](https://docs.treblle.com/en/integrations) for your platform.
 
-### Install the SDK
-
-<!-- Installation instruction for the platform goes here -->
-> See the [docs]() for this SDK to learn more.
-
 ## Available SDKs
 
 Treblle provides [open-source SDKs](https://docs.treblle.com/en/integrations) that let you seamlessly integrate Treblle with your REST-based APIs.
