@@ -32,6 +32,6 @@ Codepym provides the best school administration, teaching and learning experienc
 
 ### How to contribute
 
-Here are some ways of contributing to making Treblle better:
+Here are some ways of contributing to making CodePym better:
 
 - Send a pull request to any of our [open source repositories](https://github.com/codepymdev) on GitHub. Check the contribution guide on the repo you want to contribute to for more details about how to contribute. We're looking forward to your contribution!
