@@ -25,24 +25,13 @@ Codepym provides the best school administration, teaching and learning experienc
 
 ## Products
 
-- [API Monitoring & Observability](https://www.treblle.com/features/api-monitoring-observability)
-- [Auto-generated API Docs](https://www.treblle.com/features/auto-generated-api-docs)
-- [API analytics](https://www.treblle.com/features/api-analytics)
-- [Treblle API Score](https://www.treblle.com/features/api-quality-score)
-- [API Lifecycle Collaboration](https://www.treblle.com/features/api-lifecycle)
-- [Native Treblle Apps](https://www.treblle.com/features/native-apps)
-
-## Get Started
-
-1. Sign in to [Treblle](https://app.treblle.com).
-2. [Create a Treblle project](https://docs.treblle.com/en/dashboard/projects#creating-a-project).
-3. [Setup the SDK](https://docs.treblle.com/en/integrations) for your platform.
-
+- [Grad](https://www.codepym.com/grad)
+- [Certi](https://certi.codepym.com/)
+- [Learn Lab](https://learnlab.codepym.com/)
+- [ELibra](#)
 
 ### How to contribute
 
 Here are some ways of contributing to making Treblle better:
 
-- **[Try out Treblle](https://docs.treblle.com/en/introduction#getting-started)**, and let us know ways to make Treblle better for you. Let us know here on [Discord](https://treblle.com/chat).
-- Join our [Discord](https://treblle.com/chat) and connect with other members to share and learn from.
-- Send a pull request to any of our [open source repositories](https://github.com/Treblle) on Github. Check the contribution guide on the repo you want to contribute to for more details about how to contribute. We're looking forward to your contribution!
+- Send a pull request to any of our [open source repositories](https://github.com/codepymdev) on GitHub. Check the contribution guide on the repo you want to contribute to for more details about how to contribute. We're looking forward to your contribution!
